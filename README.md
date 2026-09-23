@@ -18,6 +18,8 @@ The main goal is to explore how raw data can be transformed into meaningful info
 
 The repository combines analytical thinking with a business-oriented perspective, connecting data analysis to real organizational challenges.
 
+**Author: Michelle de Lara Ferraz Silveira Almeida
+
 ---
 
 ## 🔎 Main Areas of Study
